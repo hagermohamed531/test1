@@ -10,8 +10,14 @@ Welcome to the TicTacToe GameClient, a Java application allowing users to have a
   https://github.com/ahmedKhaled1995/tic_tak_toe_sever .<br/>
   # How To Play 
   ## Human versus Computer.
- 
-
+  Select vs computer button then select difficulty of the game and start playing.<br/>
+  after the end of the game click on leave button to go to the main menu or replay button to start a new game.<br/>
+  ## Play with Friends.
+  Select vs player button from the leaderboard you can invite your online friends to play and wait for their response .
+  # Saved Games
+  from the main menuu click on the saved games to access you recorded games with your friend . <br/>
+  select the game you want click on the watch button to watch it .
+  
 # Authors
 ITI Team :<br/>
 Ahmed khaled<br/>

@@ -1,5 +1,6 @@
 # TicTacToe GameServer 
-Welcome to the TicTacToe GameClient, a Java application allowing users to have an amazing experience when playing TicTacToe.
+Welcome to the TicTacToe GameClient, a Java application allowing users to have an amazing experience when playing TicTacToe. <br/>
+![1_RJMxLdTHqVBSijKmOO5MAg](https://user-images.)
 # Getting up and running
   Download the GameClient code, open it from your IDE. <br/>
   If you have Project Problems window, select Resolve Problem. <br/>
@@ -9,10 +10,10 @@ Welcome to the TicTacToe GameClient, a Java application allowing users to have a
   Run GameClient application, after running the Gameserver application which you can download from the link below. <br/>
   https://github.com/ahmedKhaled1995/tic_tak_toe_sever .<br/>
  # Built With
-  •	JSON-Simple 
-  •	Sqlite 
-  •	JavaFX 
-  •	Font Awesome Icon 
+  •	JSON-Simple <br/>
+  •	Sqlite <br/>
+  •	JavaFX <br/>
+  •	Font Awesome Icon <br/>
  # How to Play 
   ## Human versus Computer.
   Select vs computer button then select difficulty of the game and start playing.<br/>

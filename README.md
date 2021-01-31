@@ -2,7 +2,7 @@
 Welcome to the TicTacToe GameServer, a simple Java application allowing users to interact with our GameServer. The goal of this project is to make possible for users to have a richer experience when playing TicTacToe. Separating the Client from the Server side allows us to have a nicer separation of concerns and ease deployment of one part without having to deploy the other.
 # Getting up and running
   Download the code and  open it as a maven project then you can run it .                                                                                                           
-  If you are using netbeans 8.2 you can follow this link (https://drive.google.com/drive/folders/1VGaFfkht6mgTYx83aW9iO4QkBtRY048d)
+  If you are using NetBeans IDE 8.2 you can follow this link (https://drive.google.com/drive/folders/1VGaFfkht6mgTYx83aW9iO4QkBtRY048d)
 # usage 
 
 ```python

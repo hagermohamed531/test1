@@ -4,10 +4,10 @@ Welcome to the TicTacToe GameClient, a Java application allowing users to have a
   Download the GameClient code, open it from your IDE. <br/>
   If you have Project Problems window, select Resolve Problem .<br/>
   Download the Jarfile from the link below.<br/>
-  https://drive.google.com/drive/folders/1-EkbvH4gb-woX8u2EKl02mbtRvTyIbkw
-  Click resolve, load jar from jarfile you alraedy downloaded.
+  https://drive.google.com/drive/folders/1-EkbvH4gb-woX8u2EKl02mbtRvTyIbkw<br/>
+  Click resolve, load jar from jarfile you alraedy downloaded.<br/>
   Run GameClient applicarion, after running the Gameserver application which you can downlad from the link below. <br/>
-  https://github.com/ahmedKhaled1995/tic_tak_toe_sever .
+  https://github.com/ahmedKhaled1995/tic_tak_toe_sever .<br/>
  
 
 # Authors

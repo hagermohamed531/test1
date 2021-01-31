@@ -7,7 +7,7 @@ Welcome to the TicTacToe GameServer, a simple Java application allowing users to
   Download Game Client from this link (https://github.com/ahmedKhaled1995/tic_tak_toe_client_ui_final)
   
 
-## Authors
+### Authors
 ### ITI Team :<br/>
 Ahmed khaled<br/>
 Ahmed Zakria<br/>

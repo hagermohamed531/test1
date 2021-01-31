@@ -6,7 +6,7 @@ Welcome to the TicTacToe GameClient, a Java application allowing users to have a
   Download the Jarfile from the link below.<br/>
   https://drive.google.com/drive/folders/1-EkbvH4gb-woX8u2EKl02mbtRvTyIbkw<br/>
   Click resolve, load jar from jarfile you alraedy downloaded.<br/>
-  Run GameClient applicarion, after running the Gameserver application which you can downlad from the link below. <br/>
+  Run GameClient application, after running the Gameserver application which you can downlad from the link below. <br/>
   https://github.com/ahmedKhaled1995/tic_tak_toe_sever .<br/>
  
 

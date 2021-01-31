@@ -1,11 +1,14 @@
 # TicTacToe GameServer 
-Welcome to the TicTacToe GameServer, a simple Java application allowing users to interact with our GameServer. 
+Welcome to the TicTacToe GameClient, a Java application allowing users to have an amazing experience when playing TicTacToe.
 # Getting up and running
-  Download the code, open it from your IDE. If you are using NetBeans IDE 8.2 you can follow the link below.<br/>
-  (https://drive.google.com/drive/folders/1VGaFfkht6mgTYx83aW9iO4QkBtRY048d).<br/>Run the appliction, now you can start the server.<br/>
-  the server is waiting the Gameclient to run.<br/>
-  Download Game Client from this link (https://github.com/ahmedKhaled1995/tic_tak_toe_client_ui_final)
-  
+  Download the GameClient code, open it from your IDE. <br/>
+  If you have Project Problems window, select Resolve Problem .<br/>
+  Download the Jarfile from the link below.<br/>
+  https://drive.google.com/drive/folders/1-EkbvH4gb-woX8u2EKl02mbtRvTyIbkw
+  Click resolve, load jar from jarfile you alraedy downloaded.
+  Run GameClient applicarion, after running the Gameserver application which you can downlad from the link below. <br/>
+  https://github.com/ahmedKhaled1995/tic_tak_toe_sever .
+ 
 
 # Authors
 ITI Team :<br/>

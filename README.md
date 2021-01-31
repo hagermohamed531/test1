@@ -3,7 +3,8 @@ Welcome to the TicTacToe GameServer, a simple Java application allowing users to
 # Getting up and running
   Download the code, open it from your IDE.
   If you are using NetBeans IDE 8.2 you can follow this link (https://drive.google.com/drive/folders/1VGaFfkht6mgTYx83aW9iO4QkBtRY048d).                                              run the appliction, now you can start the server.
-  the server is waiting the Gameclient to run .                                                                                                                                       Download Game Client from this link (https://github.com/ahmedKhaled1995/tic_tak_toe_client_ui_final)
+  the server is waiting the Gameclient to run .
+  Download Game Client from this link (https://github.com/ahmedKhaled1995/tic_tak_toe_client_ui_final)
   
 # usage 
 

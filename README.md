@@ -13,7 +13,7 @@ Welcome to the TicTacToe GameClient, a Java application allowing users to have a
   Select vs computer button then select difficulty of the game and start playing.<br/>
   after the end of the game click on leave button to go to the main menu or replay button to start a new game.<br/>
   ## Play with Friends.
-  Select vs player button from the leaderboard you can invite your online friends to play and wait for their response.<br/>
+  Select vs player button, from the leaderboard you can invite your online friends to play and wait for their response.<br/>
   after the end of the game click on leave button to go to the main menu or replay button to start a new game.<br/>
   # Saved Games
   from the main menu click on the saved games to access you recorded games with your friend . <br/>

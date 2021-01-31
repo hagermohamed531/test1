@@ -8,6 +8,8 @@ Welcome to the TicTacToe GameClient, a Java application allowing users to have a
   Click resolve, load jar from jarfile you alraedy downloaded.<br/>
   Run GameClient application, after running the Gameserver application which you can downlad from the link below. <br/>
   https://github.com/ahmedKhaled1995/tic_tak_toe_sever .<br/>
+  # How To Play 
+  ## Human versus Computer.
  
 
 # Authors

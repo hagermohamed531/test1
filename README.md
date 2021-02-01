@@ -14,6 +14,8 @@ Welcome to the TicTacToe GameClient, a Java application allowing users to have a
   •	Sqlite <br/>
   •	JavaFX <br/>
   •	Font Awesome Icon <br/>
+ #Database Schema
+ ![](dbSchema.png)
  # How to Play 
   ## Human versus Computer.
   Select vs computer button then select difficulty of the game and start playing.<br/>

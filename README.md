@@ -14,7 +14,7 @@ Welcome to the TicTacToe GameClient, a Java application allowing users to have a
   •	Sqlite <br/>
   •	JavaFX <br/>
   •	Font Awesome Icon <br/>
- #Database Schema
+ # Database Schema
  ![](dbSchema.png)
  # How to Play 
   ## Human versus Computer.

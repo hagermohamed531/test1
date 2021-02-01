@@ -1,6 +1,6 @@
 # TicTacToe GameServer 
 Welcome to the TicTacToe GameClient, a Java application allowing users to have an amazing experience when playing TicTacToe. <br/>
-![](image/github-42.png)
+![](image/42.png)
 # Getting up and running
   Download the GameClient code, open it from your IDE. <br/>
   If you have Project Problems window, select Resolve Problem. <br/>
